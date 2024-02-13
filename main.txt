@@ -2,3 +2,4 @@ start main
 commit 1
 commit 2
 fetch it
+after fetch and merge i push to hub
